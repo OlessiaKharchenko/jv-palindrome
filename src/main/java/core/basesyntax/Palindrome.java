@@ -26,4 +26,3 @@ public class Palindrome {
         return text.toLowerCase().equals(reverse);
     }
 }
-
